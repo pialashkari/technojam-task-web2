@@ -14,7 +14,7 @@
 ## Contact 
 <br>
 <a href="https://www.twitter.com/pialashkari/">
-
+<img align="left" src="https://github.com/pialashkari/technojam-task-web2/assets/139000789/e98c5e6f-643e-4693-819f-793ca5bae7a5" height=32px>
 </a>
 
 <a href="https://www.linkedin.com/in/pialashkari23/">
