@@ -15,7 +15,7 @@
 Figma : https://www.figma.com/file/GCZYVkUhSl5M0BWeNwkoIi/Pizza-Family?type=design&node-id=0%3A1&mode=design&t=Z2Pt5aFp00D2nuag-1
 
 ### Medium | Task 2
-Weather App : https://pialashkari23.github.io/CodeClause-WeatherApp/ <br>
+Weather App <br>
 In this project, I have learned how to use API key and fetch data using the city/state/island/country names.
 It's a Responsive Website.
 
