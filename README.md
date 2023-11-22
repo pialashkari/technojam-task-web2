@@ -19,6 +19,9 @@ Weather App <br>
 In this project, I have learned how to use API key and fetch data using the city/state/island/country names.
 It's a Responsive Website.
 
+## UI/UX Task
+Logo 1 : https://www.figma.com/file/LoSRYgrC8ImDPw8bRHx3i1/Untitled?type=design&node-id=0%3A1&mode=design&t=yY5bLLZic4WCqMLM-1 <br><br>
+Logo 2 : https://www.figma.com/file/Armh1UDS1ro1eg3niOtJNk/D-Logo?type=design&node-id=0%3A1&mode=design&t=jn6TGrw752UBnmiU-1 
 
 <br><br>
 
