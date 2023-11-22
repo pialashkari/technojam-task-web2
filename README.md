@@ -19,8 +19,6 @@ Weather App <br>
 In this project, I have learned how to use API key and fetch data using the city/state/island/country names.
 It's a Responsive Website.
 
-### Hard | Task 3
-Notes App <br>
 
 <br><br>
 
